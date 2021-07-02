@@ -1,0 +1,350 @@
+@media (max-width:1200px){
+    .nav_link {
+        float: right;
+        margin-left: 400px;
+        background-color: #FF7000;
+    }
+    .pro_bg .products_txt {
+        width: 52%;
+    }
+    .btn_shop3 {
+        border-radius: 25px;
+        padding: 9px 36px;
+        background-color: white;
+        color: #FF7000;
+    }
+    .chose_lft_book img {
+        width: 410px;
+    }
+    .chose_lft_cir img {
+        position: absolute;
+        top: -85px;
+        left: 30px;
+        width: 570px;
+    }
+    .right_card_wrap .card {
+        padding: 20px;
+        background-color: #FFFFFF;
+        border-radius: 20px;
+        width: 14rem !important;
+    }
+    .rit_btn button {
+        background-color: white;
+        padding: 9px 41px;
+        border-radius: 25px;
+        color: #FF7000;
+    }
+    .img_wrap_cir img {
+        width: 500px;
+    }
+    .right_txt_blk1 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .right_txt_blk1 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .right_txt_blk1 {
+        position: absolute;
+        top: 125px;
+        left: -5px;
+    }
+    .right_txt_blk2 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .right_txt_blk2 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .right_txt_blk2 {
+        position: absolute;
+        top: 230px;
+        left: 26px;
+    }
+    .right_txt_blk3 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .right_txt_blk3 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .right_txt_blk3 {
+        position: absolute;
+        top: 335px;
+        left: -8px;
+    }
+    .lft_txt_blk1 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .lft_txt_blk1 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .lft_txt_blk1 {
+        text-align: end;
+        position: absolute;
+        top: 124px;
+        right: -40px;
+    }
+    .lft_txt_blk2 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .lft_txt_blk2 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .lft_txt_blk2 {
+        text-align: end;
+        position: absolute;
+        top: 232px;
+        right: -10px;
+    }
+    .lft_txt_blk3 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .lft_txt_blk3 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .lft_txt_blk3 {
+        text-align: end;
+        position: absolute;
+        top: 334px;
+        right: -44px;
+    }
+    .fre_right_img img {
+        width: 483px;
+        margin-left: 50px;
+        margin-top: 135px;
+    }
+    .news_video {
+        position: absolute;
+        top: 100px;
+        left: -100px;
+    }
+    .btn_css_con {
+        background-color: #FF7000;
+        padding: 15px 30px;
+        border-radius: 30px;
+        color: white;
+    }
+    .email-box__button{
+        margin-left: 1px;
+    }
+    nav_ban_bg {
+        background-image: url(img/hewd_bg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 150px;
+        background-position: center center;
+    }
+}
+
+
+/* media 992 */
+
+@media (max-width:992px){
+    .rit_btn {
+        margin-left: 105px;
+        margin-top: 38px;
+    }
+    .mb-2 {
+        margin-bottom: .5rem !important;
+        margin-top: 36px!important;
+    }
+    nav_link {
+        float: right;
+        margin-left: 400px;
+        background: none;
+        padding: 20px;
+    }
+    .nav-item a{
+        color: #FF7000;
+    }
+    .nav_link {
+        float: right;
+        margin-left: 400px;
+        background: none;
+    }
+    .banner_right_im img {
+        width: 490px;
+        margin-left: 100px;
+    }
+    .chose_lft_cir img {
+        position: absolute;
+        top: -85px;
+        left: 102px;
+        width: 570px;
+    }
+    .chose_left {
+        position: relative;
+        margin-bottom: 200px;
+    }
+    .img_wrap_cir img {
+        width: 430px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .right_txt_blk1 h4 {
+color: #3C73F1;
+font-size: 12px;
+    }
+    .right_txt_blk1 p {
+        color: #BDBFCC;
+        font-size: 10px;
+    }
+    .right_txt_blk1 {
+        position: absolute;
+        top: 105px;
+        left: 47px;
+    }
+    .right_txt_blk2 h4 {
+        color: #3C73F1;
+        font-size: 12px;
+    }
+    .right_txt_blk2 p {
+        color: #BDBFCC;
+        font-size: 8px;
+    }
+    .right_txt_blk2 {
+        position: absolute;
+        top: 199px;
+        left: 77px;
+    }
+    .right_txt_blk3 h4 {
+        color: #3C73F1;
+        font-size: 12px;
+    }
+    .right_txt_blk3 p {
+        color: #BDBFCC;
+        font-size: 10px;
+    }
+    .right_txt_blk3 {
+        position: absolute;
+        top: 286px;
+        left: 45px;
+    }
+
+
+    .lft_txt_blk1 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .lft_txt_blk1 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .lft_txt_blk1 {
+text-align: end;
+position: absolute;
+top: 105px;
+right: -40px;
+    }
+    .lft_txt_blk2 h4 {
+        color: #3C73F1;
+        font-size: 12px;
+    }
+    .lft_txt_blk2 p {
+        color: #BDBFCC;
+        font-size: 10px;
+    }
+    .lft_txt_blk2 {
+        text-align: end;
+        position: absolute;
+        top: 200px;
+        right: -10px;
+    }
+    .lft_txt_blk3 p {
+        color: #BDBFCC;
+        font-size: 12px;
+    }
+    .lft_txt_blk3 h4 {
+        color: #3C73F1;
+        font-size: 15px;
+    }
+    .lft_txt_blk3 {
+        text-align: end;
+        position: absolute;
+        top: 286px;
+        right: -38px;
+    }
+    .pro_bg .products_txt h4 {
+        font-size: 23px;
+        color: white;
+        font-weight: 300;
+    }
+    .fre_right_img {
+        margin-top: 386px;
+    }
+    .fre_right_img img {
+        width: 397px;
+        margin-left: 50px;
+        margin-top: 135px;
+    }
+    .news_video {
+        position: absolute;
+        top: 100px;
+        left: -145px;
+    }
+    .ftr_lg{
+        width: 50%;
+    }
+    .ftr2_link, .ftr_lg a{
+        color: white;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+/* media 992 */
+@media (max-width:778px){
+    .banner_right_im img {
+        width: 490px;
+        margin-left: 35px;
+    }
+    .chose_lft_book img {
+        width: 395px;
+        margin-left: 98px;
+    }
+    .chose_lft_cir img {
+        position: absolute;
+        top: -85px;
+        left: 45px;
+        width: 550px;
+    }
+    .right_card_wrap .card {
+        padding: 20px;
+        background-color: #FFFFFF;
+        border-radius: 20px;
+        width: 20rem !important;
+    }
+    .rght_col2_img{
+        display: none;
+    }
+    
+}
